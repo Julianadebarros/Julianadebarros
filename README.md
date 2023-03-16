@@ -9,6 +9,7 @@
  <p align="center">
     Sou estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/">FIAP </a>.
   </p>
+  
   <h4 align="center">
 Codando em: <div align="center" valign="top"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -20,7 +21,7 @@ Codando em: <div align="center" valign="top"><br>
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 </div><br>
   </h4>
-  
+
 - 👩🏻‍💻 Empreendedora há 4 anos, proprietária de loja do varejo infantil
 - 🚀 Trilhando um novo caminho em busca do meu próximo desafio no mundo da tecnologia
 
