@@ -23,28 +23,17 @@ Codando em: <div align="center" valign="top"><br>
   
 - 👩🏻‍💻 Empreendedora há 4 anos, proprietária de loja do varejo infantil
 - 🚀 Trilhando um novo caminho em busca do meu próximo desafio no mundo da tecnologia
-- 📫 Contato:  <a href="https://www.linkedin.com/in/julianadebarrosf/" target="_blank"><img img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "julianadebarrosferreira@gmail.com"><img img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianadebarros&theme=material-palenight&show_icons=true)
-  
-  <div>
-<a href="https://github.com/julianadebarros">
-<div align="right" style="display: inline_block">
-  <!--
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=julianadebarros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianadebarros&layout=compact&langs_count=7&hide=scss,less,stylus&theme=material-palenight"/>  
-  
-</div>
-
-  <div align="center">
-
-  ![Snake animation](https://github.com/Julianadebarros/Julianadebarros/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
-  
+<div aligh="center" valign"top"><br>
+  <a href="https://www.linkedin.com/in/julianadebarrosf/" target="_blank">
+    <img img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "julianadebarrosferreira@gmail.com">
+    <img img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div></br>
+ 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/126929684/225490297-af1fd5cf-92f1-45b7-8de5-6eef055241bf.gif" width="200px" />
-  </div>
-  
+  <a href="https://github.com/Julianadebarros">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Julianadebarros&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianadebarros&theme=material-palenight&hide_border=false&&layout=compact"/>
+  </a>
+</div>
