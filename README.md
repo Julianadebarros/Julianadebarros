@@ -1,16 +1,16 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/126929684/225516502-0c128c03-63a3-42ba-8ff0-20ebf98b964f.gif" height="280px" width="600px" />
+<img src="https://user-images.githubusercontent.com/126929684/225516502-0c128c03-63a3-42ba-8ff0-20ebf98b964f.gif" height="280px" width="800px" />
   </div>
-
-### Oi, eu sou a Juliana! 👋
+<div>
+  
+  <h3 align="center">
+    Olá, eu sou a Juliana de Barros :space_invader:</a>
+  </h3>
 
 - 📖 Cursando Análise e Desenvolvimento de Sistemas na FIAP.
 - 👩🏻‍💻 Pequena empreendedora.
 - 🛠️ Em transição de carreira.
 - 💻 Estudando tecnológias como: HTML, CSS, JavaScript e Python.
-
-![CyberPeopleKnowYourCyberGIF](https://user-images.githubusercontent.com/126929684/225490297-af1fd5cf-92f1-45b7-8de5-6eef055241bf.gif)
-
 
 
 <img src="https://user-images.githubusercontent.com/126929684/225488170-b7c68141-ac28-43a7-aa3f-e3da4c29c5d8.gif"  padding="10px" style="vertical-align:middle;margin-left:10px" height = "265" width="400px" align="right" alt="JavaScript">
@@ -23,5 +23,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianadebarros&show_icons=true&theme=material-palenight)
 
- 
- ![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
+ <div align="center">
+<img src="https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg" />
+  </div>
+
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/126929684/225490297-af1fd5cf-92f1-45b7-8de5-6eef055241bf.gif" width="200px" />
+  </div>
