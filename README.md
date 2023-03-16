@@ -21,14 +21,9 @@ Codando em: <div align="center" valign="top"><br>
 </div><br>
   </h4>
   
-- 👩🏻‍💻 Pequena empreendedora no varejo 
-- 🛠️ Em transição de carreira.
-- 💻 Estudando tecnológias como: HTML, CSS, JavaScript e Python.
-
-## Contato:
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/julianadebarrosf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "Julianadebarrosferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 👩🏻‍💻 Empreendedora há 4 anos, proprietária de loja do varejo infantil
+- 🚀 Em busca do meu próximo desafio no mundo da tecnologia
+- 📫 Contato:  <a href="https://www.linkedin.com/in/julianadebarrosf/" target="_blank"><img img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "julianadebarrosferreira@gmail.com"><img img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianadebarros&theme=material-palenight&show_icons=true)
