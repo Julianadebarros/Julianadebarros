@@ -36,9 +36,10 @@ Codando e aprendendo em: <div align="center" valign="top"><br>
 <img src="https://user-images.githubusercontent.com/126929684/225724311-4cbf1d37-90dc-4cc9-8a1e-3c01edb7e836.gif" height="200px" />
   </div>
   
+<div>  
 <div align="center">
   <a href="https://github.com/Julianadebarros">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Julianadebarros&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=false&show_owner=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianadebarros&theme=material-palenight&hide_border=false&&layout=compact"/>
-  </a>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Julianadebarros&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=false&show_owner=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianadebarros&theme=material-palenight&hide_border=false&&layout=compact"/>
+  </a></div>
 </div>
