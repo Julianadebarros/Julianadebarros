@@ -22,7 +22,7 @@ Codando em: <div align="center" valign="top"><br>
   </h4>
   
 - 👩🏻‍💻 Empreendedora há 4 anos, proprietária de loja do varejo infantil
-- 🚀 Em busca do meu próximo desafio no mundo da tecnologia
+- 🚀 Trilhando um novo caminho em busca do meu próximo desafio no mundo da tecnologia
 - 📫 Contato:  <a href="https://www.linkedin.com/in/julianadebarrosf/" target="_blank"><img img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "julianadebarrosferreira@gmail.com"><img img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
