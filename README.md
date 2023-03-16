@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/126929684/225516502-0c128c03-63a3-42ba-8ff0-20ebf98b964f.gif" height="280px" width="800px" />
+<img src="https://user-images.githubusercontent.com/126929684/225763333-4cecf531-f5e0-43b0-9bfb-ed8f0ea45f37.gif" height="220px" width="920" />
   </div>
 <div>
-  
+
   <h3 align="center">
     Olá, eu sou a Juliana de Barros :space_invader:</a>
   </h3>
