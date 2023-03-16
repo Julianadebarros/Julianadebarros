@@ -42,7 +42,7 @@ Codando em: <div align="center" valign="top"><br>
 
   ![Snake animation](https://github.com/Julianadebarros/Julianadebarros/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+  </div>
   
 <div align="center">
 <img src="https://user-images.githubusercontent.com/126929684/225490297-af1fd5cf-92f1-45b7-8de5-6eef055241bf.gif" width="200px" />
