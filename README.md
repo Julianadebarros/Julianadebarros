@@ -11,7 +11,7 @@
   </p>
   
   <h4 align="center">
-Codando em: <div align="center" valign="top"><br>
+Codando e aprendendo em: <div align="center" valign="top"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -38,7 +38,7 @@ Codando em: <div align="center" valign="top"><br>
   
 <div align="center">
   <a href="https://github.com/Julianadebarros">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Julianadebarros&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianadebarros&theme=material-palenight&hide_border=false&&layout=compact"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Julianadebarros&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=false&show_owner=true"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianadebarros&theme=material-palenight&hide_border=false&&layout=compact"/>
   </a>
 </div>
