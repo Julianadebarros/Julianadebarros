@@ -1,17 +1,13 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/126929684/225516502-0c128c03-63a3-42ba-8ff0-20ebf98b964f.gif" height="280px" width="600px" />
+  </div>
+
 ### Oi, eu sou a Juliana! 👋
 
-📖 Cursando Análise e Desenvolvimento de Sistemas na FIAP.
-👩🏻‍💻 Pequena empreendedora.
-🛠️ Em transição de carreira.
-💻 Estudando tecnológias como: HTML, CSS, JavaScript e Python.
-
-![PurpleGIF](https://user-images.githubusercontent.com/126929684/225488170-b7c68141-ac28-43a7-aa3f-e3da4c29c5d8.gif)
-
-![UiHologramGIF](https://user-images.githubusercontent.com/126929684/225489625-4a24b3fc-6a50-4431-94f8-f6cdbbd6c437.gif)
-
-![CyberGIF](https://user-images.githubusercontent.com/126929684/225489715-e4c324d0-5d07-437d-9c99-c75732b3d5c8.gif)
-
-![CyberGIF (2)](https://user-images.githubusercontent.com/126929684/225490210-e3b33cbc-e39c-44fa-b050-7d2d2fbf1157.gif)
+- 📖 Cursando Análise e Desenvolvimento de Sistemas na FIAP.
+- 👩🏻‍💻 Pequena empreendedora.
+- 🛠️ Em transição de carreira.
+- 💻 Estudando tecnológias como: HTML, CSS, JavaScript e Python.
 
 ![CyberPeopleKnowYourCyberGIF](https://user-images.githubusercontent.com/126929684/225490297-af1fd5cf-92f1-45b7-8de5-6eef055241bf.gif)
 
@@ -29,13 +25,3 @@
 
  
  ![Snake animation](https://github.com/monicaquintal/monicaquintal/blob/output/github-contribution-grid-snake.svg)
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
