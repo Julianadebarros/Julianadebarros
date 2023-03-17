@@ -19,9 +19,10 @@ Codando e aprendendo em: <div align="center" valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="Github" height="30" width="33" src="https://cdn.discordapp.com/attachments/1080213691707961434/1086414683709386824/Ativo_4.png">
 </div><br>
   </h4>
-
+  
 - 👩🏻‍💻 Empreendedora há 4 anos, proprietária de loja do varejo infantil
 - 🚀 Trilhando um novo caminho em busca do meu próximo desafio no mundo da tecnologia
 
