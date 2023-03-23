@@ -7,7 +7,7 @@
     Olá, eu sou a Juliana de Barros :space_invader:</a>
   </h3>
  <p align="center">
-    Sou estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/">FIAP </a>.
+    Sou estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/online/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/">FIAP </a>
   </p>
   
   <h4 align="center">
