@@ -23,8 +23,8 @@ Codando e aprendendo em: <div align="center" valign="top"><br>
 </div><br>
   </h4>
   
-- 👩🏻‍💻 Empreendedora há 4 anos, proprietária de loja do varejo infantil.
-- 🚀 Trilhando um novo caminho em busca do meu próximo desafio no mundo da tecnologia.
+- 👩🏻‍💻 Empreendedora há 4 anos, proprietária de loja do varejo infantil
+- 🚀 Trilhando um novo caminho em busca do meu próximo desafio no mundo da tecnologia
 
 <div align="center" valign"top"><br>
   <a href="https://www.linkedin.com/in/julianadebarrosf/" target="_blank">
